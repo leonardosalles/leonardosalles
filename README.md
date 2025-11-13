@@ -12,7 +12,7 @@ I enjoy experimenting with new technologies, building proofs of concept, and sha
 - **Frontend:** React, React Native, Next.js, Expo, TailwindCSS  
 - **Backend:** Node.js, NestJS, Express, Prisma, PostgreSQL  
 - **DevOps:** Docker, GitHub Actions, Vercel, AWS, Nginx
-- **Other Tools:** TypeScript, Jest, WebSockets, Redis, Turborepo  
+- **Other Tools:** TypeScript, Jest, WebSockets, Redis, Turborepo, MCPs
 
 
 ### 🧠 Learning & Development
