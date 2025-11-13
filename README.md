@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Leonardo Salles
 
-I'm a **Full Stack Developer** who loves building well-structured, high-performance applications — from backend systems to delightful user interfaces.  
+I'm a **Software Engineer** who loves building well-structured, high-performance applications — from backend systems to delightful user interfaces.  
 My work is centered around **TypeScript**, **React**, **React Native**, and **NestJS**, with a strong focus on clean architecture, scalability, and developer experience.
 
 I enjoy experimenting with new technologies, building proofs of concept, and sharing insights from the process. Whether it's designing a resilient API, optimizing CI/CD pipelines, or polishing UX flows, I'm always looking for ways to make things simpler, faster, and more maintainable.
