@@ -11,15 +11,18 @@ I enjoy experimenting with new technologies, building proofs of concept, and sha
 
 - **Frontend:** React, React Native, Next.js, Expo, TailwindCSS  
 - **Backend:** Node.js, NestJS, Express, Prisma, PostgreSQL  
-- **DevOps:** Docker, GitHub Actions, Vercel, AWS, Nginx  
+- **DevOps:** Docker, GitHub Actions, Vercel, AWS, Nginx
 - **Other Tools:** TypeScript, Jest, WebSockets, Redis, Turborepo  
 
 
 ### 🧠 Learning & Development
 
-- **TypeScript POCs:** [typescript-sandbox](https://github.com/leonardosalles/typescript-sandbox)  
-- **React Native POCs:** [react-native-sandbox](https://github.com/leonardosalles/react-native-sandbox)  
-- **DevOps POCs:** [devops-sandbox](https://github.com/leonardosalles/devops-sandbox)  
+- **Node.js POCs:** [nodejs-sandbox](https://github.com/leonardosalles/nodejs-sandbox)
+- **TypeScript POCs:** [typescript-sandbox](https://github.com/leonardosalles/typescript-sandbox)
+- **React Native POCs:** [react-native-sandbox](https://github.com/leonardosalles/react-native-sandbox)
+- **Java POCs:** [java-sandbox](https://github.com/leonardosalles/java-sandbox)
+- **Python POCs:** [python-sandbox](https://github.com/leonardosalles/python-sandbox)
+- **DevOps POCs:** [devops-sandbox](https://github.com/leonardosalles/devops-sandbox)
 
 ---
 
