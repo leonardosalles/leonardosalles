@@ -17,12 +17,12 @@ I enjoy experimenting with new technologies, building proofs of concept, and sha
 
 ### 🧠 Learning & Development
 
-- **Node.js POCs:** [nodejs-sandbox](https://github.com/leonardosalles/nodejs-sandbox)
-- **TypeScript POCs:** [typescript-sandbox](https://github.com/leonardosalles/typescript-sandbox)
-- **React Native POCs:** [react-native-sandbox](https://github.com/leonardosalles/react-native-sandbox)
-- **Java POCs:** [java-sandbox](https://github.com/leonardosalles/java-sandbox)
-- **Python POCs:** [python-sandbox](https://github.com/leonardosalles/python-sandbox)
-- **DevOps POCs:** [devops-sandbox](https://github.com/leonardosalles/devops-sandbox)
+- **Node.js POCs:** [nodejs-sandbox](https://github.com/leonardosalles/nodejs-sandbox/tree/main/pocs)
+- **TypeScript POCs:** [typescript-sandbox](https://github.com/leonardosalles/typescript-sandbox/tree/main/pocs)
+- **React Native POCs:** [react-native-sandbox](https://github.com/leonardosalles/react-native-sandbox/tree/main/pocs)
+- **Java POCs:** [java-sandbox](https://github.com/leonardosalles/java-sandbox/tree/main/pocs)
+- **Python POCs:** [python-sandbox](https://github.com/leonardosalles/python-sandbox/tree/main/pocs)
+- **DevOps POCs:** [devops-sandbox](https://github.com/leonardosalles/devops-sandbox/tree/main/pocs)
 
 ---
 
