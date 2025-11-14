@@ -9,32 +9,35 @@ I enjoy experimenting with new technologies, building proofs of concept, and sha
 
 ### 🧩 Tech Stack
 
-- **Frontend:** React, React Native, Next.js, Expo, TailwindCSS  
-- **Backend:** Node.js, NestJS, Express, Prisma, PostgreSQL  
-- **DevOps:** Docker, GitHub Actions, Vercel, AWS, Nginx
-- **Other Tools:** TypeScript, Jest, WebSockets, Redis, Turborepo, MCPs
+- <img weight=20, height=20 src="https://slackmojis.com/emojis/66801-frontend/download"> **Frontend:** React, React Native, Next.js, Expo, TailwindCSS  
+- <img weight=20, height=20 src="https://slackmojis.com/emojis/66800-backend/download"> **Backend:** Node.js, NestJS, Express, Prisma, PostgreSQL  
+- <img weight=20, height=20 src="https://slackmojis.com/emojis/67092-devops/download"> **DevOps:** Docker, GitHub Actions, Vercel, AWS, Nginx
+- <img weight=20, height=20 src="https://slackmojis.com/emojis/57819-mytools/download"> **Other Tools:** TypeScript, Jest, WebSockets, Redis, Turborepo, MCPs
 
 
 ### 🧠 Learning & Development
 
-- **Node.js POCs:** [nodejs-sandbox](https://github.com/leonardosalles/nodejs-sandbox/tree/main/pocs)
-- **TypeScript POCs:** [typescript-sandbox](https://github.com/leonardosalles/typescript-sandbox/tree/main/pocs)
-- **React Native POCs:** [react-native-sandbox](https://github.com/leonardosalles/react-native-sandbox/tree/main/pocs)
-- **Java POCs:** [java-sandbox](https://github.com/leonardosalles/java-sandbox/tree/main/pocs)
-- **Python POCs:** [python-sandbox](https://github.com/leonardosalles/python-sandbox/tree/main/pocs)
-- **DevOps POCs:** [devops-sandbox](https://github.com/leonardosalles/devops-sandbox/tree/main/pocs)
+- <img weight=20, height=20 src="https://slackmojis.com/emojis/4425-nodejs/download"> **Node.js POCs:** [nodejs-sandbox](https://github.com/leonardosalles/nodejs-sandbox/tree/main/pocs)
+- <img weight=20, height=20 src="https://slackmojis.com/emojis/1383-typescript/download"> **TypeScript POCs:** [typescript-sandbox](https://github.com/leonardosalles/typescript-sandbox/tree/main/pocs)
+- <img weight=20, height=20 src="https://slackmojis.com/emojis/53111-react_native/download"> **React Native POCs:** [react-native-sandbox](https://github.com/leonardosalles/react-native-sandbox/tree/main/pocs)
+- <img weight=20, height=20 src="https://slackmojis.com/emojis/232-java/download"> **Java POCs:** [java-sandbox](https://github.com/leonardosalles/java-sandbox/tree/main/pocs)
+- <img weight=20, height=20 src="https://slackmojis.com/emojis/32-python/download"> **Python POCs:** [python-sandbox](https://github.com/leonardosalles/python-sandbox/tree/main/pocs)
+- <img weight=20, height=20 src="https://slackmojis.com/emojis/67092-devops/download"> **DevOps POCs:** [devops-sandbox](https://github.com/leonardosalles/devops-sandbox/tree/main/pocs)
 
 ---
 
 ### ✍️ What I’m Writing
 
+
+
 Check out my personal space where I share notes, experiments, and articles:  
-👉 [leonardosalles.github.io](https://leonardosalles.github.io)
+* <img weight=20, height=20 src="https://slackmojis.com/emojis/10406-lolleo/download"> [Personal Website](https://leonardosalles.com/)
+* <img weight=20, height=20 src="https://slackmojis.com/emojis/131341-substack/download"> [Substack](https://leosalles.substack.com/)
 
 ---
 
 ### 🌐 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/leosallestm)  
+ 
+- <img weight=20, height=20 src="https://slackmojis.com/emojis/711-linkedin/download"> [LinkedIn](https://www.linkedin.com/in/leosallestm)  
 
 ---
