@@ -22,7 +22,7 @@ I enjoy experimenting with new technologies, building proofs of concept, and sha
 - <img weight=20, height=20 src="https://slackmojis.com/emojis/53111-react_native/download"> **React Native POCs:** [react-native-sandbox](https://github.com/leonardosalles/react-native-sandbox/tree/main/pocs)
 - <img weight=20, height=20 src="https://slackmojis.com/emojis/232-java/download"> **Java POCs:** [java-sandbox](https://github.com/leonardosalles/java-sandbox/tree/main/pocs)
 - <img weight=20, height=20 src="https://slackmojis.com/emojis/66260-rust/download"> **Rust POCs:** [rust-sandbox](https://github.com/leonardosalles/rust-sandbox/tree/main/pocs)
-- - <img weight=20, height=20 src="https://slackmojis.com/emojis/291-golang/download"> **Go POCs:** [go-sandbox](https://github.com/leonardosalles/go-sandbox/tree/main/pocs)
+- <img weight=20, height=20 src="https://slackmojis.com/emojis/291-golang/download"> **Go POCs:** [go-sandbox](https://github.com/leonardosalles/go-sandbox/tree/main/pocs)
 - <img weight=20, height=20 src="https://slackmojis.com/emojis/67092-devops/download"> **DevOps POCs:** [devops-sandbox](https://github.com/leonardosalles/devops-sandbox/tree/main/pocs)
 
 ---
