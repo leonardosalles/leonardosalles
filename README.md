@@ -16,7 +16,7 @@ I enjoy experimenting with new technologies, building proofs of concept, and sha
 
 
 ### 🧠 Learning & Development
-https://emojis.slackmojis.com/emojis/images/1645390081/53444/artificial_intelligence.png?1645390081
+
 - <img weight=20, height=20 src="https://slackmojis.com/emojis/53444-artificial_intelligence/download"> **AI POCs:** [ai-sandbox](https://github.com/leonardosalles/ai-sandbox/tree/main/pocs)
 - <img weight=20, height=20 src="https://slackmojis.com/emojis/4425-nodejs/download"> **Node.js POCs:** [nodejs-sandbox](https://github.com/leonardosalles/nodejs-sandbox/tree/main/pocs)
 - <img weight=20, height=20 src="https://slackmojis.com/emojis/1383-typescript/download"> **TypeScript POCs:** [typescript-sandbox](https://github.com/leonardosalles/typescript-sandbox/tree/main/pocs)
